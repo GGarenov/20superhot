@@ -1,0 +1,9 @@
+.slot-grid-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.slot-grid-column img {
+  margin-bottom: 5px;
+}
